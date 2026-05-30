@@ -129,7 +129,7 @@ Images were resized and normalized before training.
 Chest-XRay-Pneumonia-Classifier/
 │
 ├── app.py
-├── custom_pre_trained_model_10.h5
+├── custom_pre_trained_model_10.h5 (run the ipnby file and download the pre trained model)
 ├── requirements.txt
 ├── README.md
 │
