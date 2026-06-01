@@ -123,7 +123,7 @@ Images were resized and normalized before training.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Chest-XRay-Pneumonia-Classifier/
